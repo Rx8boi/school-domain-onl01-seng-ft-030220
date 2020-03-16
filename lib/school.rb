@@ -1,4 +1,1 @@
-class School
-  attr_accessor :roster, :student, :grade
-  end
-  # code here!
+school = School.new("Bayside High School")
